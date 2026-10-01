@@ -53,23 +53,17 @@ my programs into separate folders and maintain a clean programming
 portfolio. Overall, this activity improved my Python problem-solving
 skills and my understanding of algorithmic optimization.
 
-Q1.
+## HackerRank Evidence
 
+All five mandatory HackerRank problems were successfully completed
+and submitted.
 
+1. Diagonal Difference – Accepted
+2. Dynamic Array – Accepted
+3. Time Conversion – Accepted
+4. Compare the Triplets – Accepted
+5. Sparse Arrays – Accepted
 
-Q2.
-
-
-
-Q3.
-
-
-
-
-
-Q4.
-
-
-Q5.
-
+Screenshots of the accepted submissions and HackerRank badge
+are included in the final Activity 8 submission.
 
